@@ -1,0 +1,7 @@
+D:\Dinero con progra\ayuda eb c#\Madelin\Tarea 3 Parcial\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+D:\Dinero con progra\ayuda eb c#\Madelin\Tarea 3 Parcial\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+D:\Dinero con progra\ayuda eb c#\Madelin\Tarea 3 Parcial\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+D:\Dinero con progra\ayuda eb c#\Madelin\Tarea 3 Parcial\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.AssemblyReference.cache
+D:\Dinero con progra\ayuda eb c#\Madelin\Tarea 3 Parcial\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+D:\Dinero con progra\ayuda eb c#\Madelin\Tarea 3 Parcial\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+D:\Dinero con progra\ayuda eb c#\Madelin\Tarea 3 Parcial\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb
