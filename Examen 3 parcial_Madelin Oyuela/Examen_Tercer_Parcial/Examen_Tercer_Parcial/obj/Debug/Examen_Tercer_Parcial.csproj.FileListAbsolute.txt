@@ -1,0 +1,7 @@
+D:\Dinero con progra\ayuda eb c#\Madelin\Examen Tercer Parcial\Examen_Tercer_Parcial\Examen_Tercer_Parcial\bin\Debug\Examen_Tercer_Parcial.exe.config
+D:\Dinero con progra\ayuda eb c#\Madelin\Examen Tercer Parcial\Examen_Tercer_Parcial\Examen_Tercer_Parcial\bin\Debug\Examen_Tercer_Parcial.exe
+D:\Dinero con progra\ayuda eb c#\Madelin\Examen Tercer Parcial\Examen_Tercer_Parcial\Examen_Tercer_Parcial\bin\Debug\Examen_Tercer_Parcial.pdb
+D:\Dinero con progra\ayuda eb c#\Madelin\Examen Tercer Parcial\Examen_Tercer_Parcial\Examen_Tercer_Parcial\obj\Debug\Examen_Tercer_Parcial.csproj.AssemblyReference.cache
+D:\Dinero con progra\ayuda eb c#\Madelin\Examen Tercer Parcial\Examen_Tercer_Parcial\Examen_Tercer_Parcial\obj\Debug\Examen_Tercer_Parcial.csproj.CoreCompileInputs.cache
+D:\Dinero con progra\ayuda eb c#\Madelin\Examen Tercer Parcial\Examen_Tercer_Parcial\Examen_Tercer_Parcial\obj\Debug\Examen_Tercer_Parcial.exe
+D:\Dinero con progra\ayuda eb c#\Madelin\Examen Tercer Parcial\Examen_Tercer_Parcial\Examen_Tercer_Parcial\obj\Debug\Examen_Tercer_Parcial.pdb
